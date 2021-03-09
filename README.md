@@ -21,3 +21,7 @@ So clean code should be:
 :white_check_mark: Should be fun to write and to maintain.
 
 Always write a good story!
+
+#### Key Pain Points
+
+
